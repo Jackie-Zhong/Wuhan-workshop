@@ -75,10 +75,6 @@ para-200-genesis(98bytes)
 - UMP(Parachain 转给 Relay Chain)
 ```
 
-> DMP 中继链给平行链传消息，现在中继链只有线上治理，转账DOT,KSM
->
-> UMP 平行链给中继链传消息
-
 ### 5.1 跨链转账（DMP）
 
 ```js
